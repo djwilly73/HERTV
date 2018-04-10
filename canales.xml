@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR purple]bEIN sport[/COLOR]
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.rbcasting.com/RMC-Radio-Monte-Carlo-Rosso-Logo-2015.jpg" group-title="MUSICA", Radio Montecarlo
 http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
 
