@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>cocina</title>        
-<urlsolve>https://www.youtube.com/watch?v=xjKug_xBxVI</urlsolve>
-<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+<title>pruebas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://bit.ly/2J3QQy3</externallink>
+</item>
+ 
+<item>
+<title>mas</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/EuSrHy8E</externallink>
+</item>
+
+<item>
+<title>Canales HERTV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/canales.xml</externallink>
+</item>
+
+<item>
+<title>Canales [COLOR lime]verplus[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://verplusonline.com/ver-bein-sport-espana-en-vivo/</externallink>
+</item>
+
+<item>
+<title>Canales [COLOR lime]S[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://w3ubin.com/NyCRZOHsb.w3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]Pelis PRUEBA[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/2CXeZ9Z7</externallink>
 </item>
