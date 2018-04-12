@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <item>[COLOR gold]Todos los enlaces estan buscados por la web[/COLOR]</item>
 <link></link>
 
 <item>Gracias por vuestro apoyo</item>
 <link></link>
 
-line3 = "agradecer a mis pelos blancos su paciencia.
+<item>agradecer a mis pelos blancos su paciencia.</link>
+<link></link>
+
 <item>
 <title>[COLOR lime]Aqui encontraras los mejores addons agrupados[/COLOR]</title>
 <thumbnail> </thumbnail>
