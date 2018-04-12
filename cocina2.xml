@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+import xbmcaddon
+import xbmcgui
+ 
+__addon__ = xbmcaddon.Addon()
+__addonname__ = __addon__.getAddonInfo('name')
+ 
+line1 = "Todos los enlaces estan buscados por la web"
+line2 = "Gracias por vuestro apoyo"
+line3 = "agradecer a mis pelos blancos su paciencia."
+ 
+xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+
 <item>
 <title>pruebas</title>
 <thumbnail></thumbnail>
