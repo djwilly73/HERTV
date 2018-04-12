@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/wLiUaSS.png" group-title="Información",TECNOTV ESP
-http://1tecnotv.info
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="Información",23/Mar/2018
-http://tecnotv.xyz/error7
-#EXTINF:-1 tvg-logo="https://imgur.com/sQ5MpXq.png" group-title="Información",TecnotvOficial
-http://tecnotv.xyz/redes.avi
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="Información",@Tecnotv
-http://tecnotv.xyz/redes.avi
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="Información",@TecnotvGroup
-http://tecnotv.xyz/rede
-#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información",NO BlackGhost
-http://tecnotv.xyz/redes.avi
-#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información",NO BlackGhost
-http://tecnotv.xyz/redes.avi
-#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información",NO BlackGhost
-http://tecnotv.xyz/redes.avi
-
-
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" audio-track="es" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE.jpg" group-title="Nacional",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/898962938614210560/3zeJbp6Q_400x400.jpg" group-title="Nacional",Antena 3
