@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
- <title>[COLOR gold]Todos los enlaces estan buscados por la web[/COLOR]</title>
- <title>Gracias a todospor vuestro apoyo</title>
+<title>[COLOR gold]Todos los enlaces estan buscados por la web[/COLOR]</title>
 <link></link>
 </item>
 
-<item>Gracias por vuestro apoyo</item>
+<item>
+<title>Gracias por vuestro apoyo</title>
 <link></link>
+</item>
 
 <item>agradecer a mis pelos blancos su paciencia.</link>
 <link></link>
