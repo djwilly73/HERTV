@@ -1,7 +1,6 @@
 #EXTM3U
-
-#EXTINF:0,14 [COLOR lime] Algunos canales no se veran utilizar MAGELLAN si fallaran[/COLOR]
-http://127.0.0.0 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR lime] Algunos canales no se veran utilizar MAGELLAN si fallaran[/COLOR]
+ 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w300",[COLOR purple]bEIN sport[/COLOR]
 http://petopa148.caraponi.me/live/verliga5/index.m3u8
