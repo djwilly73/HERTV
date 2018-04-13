@@ -56,6 +56,21 @@
 <externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/pelis.xml</externallink>
 </item>
 
+<item>
+<title>Pelis 2</title>
+<thumbnail>https://pbs.twimg.com/profile_images/635791691866206209/9DGvfKby.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/5b/f7/b6/5bf7b6f36690076896079a3c81485b96.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/peliculas.m3u</externallink>
+</item>
+
+<item>
+<title>Series</title>
+<thumbnail>https://pbs.twimg.com/profile_images/635791691866206209/9DGvfKby.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/5b/f7/b6/5bf7b6f36690076896079a3c81485b96.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/series.m3u</externallink>
+</item>
  <item>
 <title>magellan</title>
 <thumbnail></thumbnail>
