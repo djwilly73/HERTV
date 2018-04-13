@@ -1,36 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR lime] Algunos canales no se veran utilizar MAGELLAN si fallaran[/COLOR]
 
-#EXTINF:-1,beIN LaLiga opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR orange] FUTBOL[/COLOR]
 
-#EXTINF:-1,Bein LaLiga opción 2
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
-
-#EXTINF:-1,beIN LaLiga opción 3
+#EXTINF:-1,beIN LaLiga 
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports La Liga
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpqhqzL.jpg" group-title="DEPORTES", La Liga TV 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR green] MOTOR[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR white] VARIOS[/COLOR]
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 
 http://65.254.55.10:4000/live/197/197.m3u8
@@ -43,6 +42,9 @@ http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/78/index
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR red] INTERNACIONAL[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation 
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
@@ -67,3 +69,8 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF: -1, ALQUILER_1 (FUNCIONAN EN WESIPLAY)
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/86.m3u8
+#EXTINF: -1, ALQUILER_2
+http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/87.m3u8
