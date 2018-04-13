@@ -29,7 +29,15 @@
 <thumbnail> </thumbnail>
 <fanart> </fanart>
 <link>http://ignoreme</link>
-<externallink> </externallink>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR #BB8FCE]Deportes[/COLOR]</title>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/deportes.xml</externallink>
 </item>
 
 <item>
