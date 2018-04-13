@@ -1,70 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR lime] Algunos canales no se veran utilizar MAGELLAN si fallaran[/COLOR]
- 
-#EXTINF:0,beIN LaLiga opción 1
+
+#EXTINF:-1,beIN LaLiga opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
 
-#EXTINF:0,beIN LaLiga opción 2
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
 
-#EXTINF:0,beIN LaLiga opción 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8 
 
-#EXTINF:0,LaLiga TV opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
-#EXTINF:0,LaLiga TV opción 2
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
-
-#EXTINF:0,LaLiga TV opción 3
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
-
-#EXTINF:0,beIN Sports Opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
-
-#EXTINF:0,beIN Sports Opción 2
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
-
-#EXTINF:0,beIN Sports Opción 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 | FHD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 2 | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 2
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UpqhqzL.jpg" group-title="DEPORTES", La Liga TV | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UpqhqzL.jpg" group-title="DEPORTES", La Liga TV 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 
 http://65.254.55.10:4000/live/197/197.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 (Alt) | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 (Alt) 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 
 http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/78/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt) | FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt)
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation 
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh7sw8g.png" group-title="DEPORTES", Premiere Sports | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh7sw8g.png" group-title="DEPORTES", Premiere Sports 
 http://playlist.onlybest.tv/ru/channel/2874e3a9397ce975e8463c76533bcb1e/47/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tt6fvvy.jpg" group-title="DEPORTES", Skysports 1 | FHD
