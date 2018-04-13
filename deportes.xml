@@ -70,7 +70,4 @@ http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 
-#EXTINF: -1, ALQUILER_1 (FUNCIONAN EN WESIPLAY)
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/86.m3u8
-#EXTINF: -1, ALQUILER_2
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/87.m3u8
+
