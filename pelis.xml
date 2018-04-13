@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+ <title> [COLOR gold]2ª Lista[/COLOR]
+ <thumbnail> </thumbnail>
+<fanart> </fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/peliculas.m3u</externallink>
+</item>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="CINE", 2ª Lista
