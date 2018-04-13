@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]Y a [/COLOR] [COLOR red]RAPO[/COLOR][COLOR gold] elegirlos videos de la zona +18[/COLOR]</title>
+<title>[COLOR gold]Y a [/COLOR] [COLOR red]RAPO[/COLOR][COLOR gold]por elegir los videos de la zona +18[/COLOR]</title>
 <thumbnail>https://i.pinimg.com/280x280_RS/13/92/e6/1392e6d24855123d473b2d8a88a7cd5a.jpg</thumbnail>
 <fanart>http://s3-eu-west-1.amazonaws.com/beta.lagenda/styles/image1000x1000/s3/programacion/dosrombos_0_0.png?itok=oTcJ9Arx</fanart>
 <link>http://ignoreme</link>
@@ -71,9 +71,10 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/series.m3u</externallink>
 </item>
- <item>
+ 
+<item>
 <title>magellan</title>
-<thumbnail></thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-UGWFf-dys_o/WFk_OHV7BII/AAAAAAAAUtQ/7OJec-Fb9WkC2AyQ-dL6doFMe5ShARYtwCLcB/s1600/Magellan%2BAddon%2BKodi%2B2.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>http://pastebin.com/raw/wL2Jvyh8</externallink>
