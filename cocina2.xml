@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-import xbmcaddon
-import xbmcgui
- 
-__addon__ = xbmcaddon.Addon()
-__addonname__ = __addon__.getAddonInfo('name')
- 
-line1 = "Todos los enlaces estan buscados por la web"
-line2 = "Gracias por vuestro apoyo"
-line3 = "agradecer a mis pelos blancos su paciencia."
- 
-xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-
 <item>
 <title>pruebas</title>
 <thumbnail></thumbnail>
@@ -54,10 +42,10 @@ xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
 
 <item>
 <title>Zona [COLOR lime]+18[/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.pinimg.com/280x280_RS/13/92/e6/1392e6d24855123d473b2d8a88a7cd5a.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Palantiraddon/repo/master/Palantir/</externallink>
+<externallink>https://raw.githubusercontent.com/djwilly73/HERTV/master/adult</externallink>
 </item>
 
 <item>
