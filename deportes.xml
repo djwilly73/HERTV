@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 [COLOR lime] Algunos canales no se veran utilizar MAGELLAN si fallaran[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w300",[COLOR purple]bEIN sport[/COLOR]
 http://petopa148.caraponi.me/live/verliga5/index.m3u8?token=s8pwYHQndcU2Ms3p8oz1rA&expires=1523696926|Referer=http://vercanalestv.com/tv/deportes/bein-sport.html
