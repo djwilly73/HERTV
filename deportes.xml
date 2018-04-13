@@ -20,28 +20,25 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR green] MOTOR[/COLOR]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES",Movistar Formula 1 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
-#EXTINF:-1,Movistar F1 opción 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png",Movistar F1 opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 
-#EXTINF:-1,Movistar F1 opción 2
-http://163.172.202.69:4022/formula1hd
-
-#EXTINF:-1,Movistar F1 opción 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png",Movistar F1 opción 2
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",Movistar MotoGP 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 
-#EXTINF:-1,Movistar MotoGP Opción 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png",Movistar MotoGP Opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
 
-#EXTINF:-1,Movistar MotoGP Opción 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvUxWgn.png",Movistar MotoGP Opción 2
 http://163.172.202.69:4022/motogphd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR white] VARIOS[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR cyan]--VARIOS--[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
