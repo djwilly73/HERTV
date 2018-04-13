@@ -10,16 +10,24 @@
 
 <item>
 <title>[COLOR gold]Todos los enlaces estan buscados por la web[/COLOR]</title>
-<link></link>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<link>http://ignoreme</link>
+<externallink> </externallink>
 </item>
 
 <item>
-<title>Gracias por vuestro apoyo</title>
-<link></link>
+<title>[COLOR gold]Gracias por vuestro apoyo[/COLOR]</title>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<link>http://ignoreme</link>
+<externallink> </externallink>
 </item>
 
-<item>agradecer a mis pelos blancos su paciencia.</link>
+<item>
+<title>[COLOR gold]agradecer a mi[/COLOR][COLOR lime] pelos blancos su paciencia.[/COLOR]</title>
 <link></link>
+</item>
 
 <item>
 <title>[COLOR lime]Aqui encontraras los mejores addons agrupados[/COLOR]</title>
