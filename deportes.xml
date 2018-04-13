@@ -20,7 +20,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="video",[COLOR green] MOTOR[/COLOR]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png" group-title="DEPORTES",Movistar Formula 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png",Movistar Formula 1 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MuXjC6K.png",Movistar F1 opción 1
