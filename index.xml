@@ -9,14 +9,6 @@
 </item>
 
 <item>
-<title>[COLOR gold]Todos los enlaces estan buscados por la web[/COLOR]</title>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-<link>http://ignoreme</link>
-<externallink> </externallink>
-</item>
-
-<item>
 <title>[COLOR gold]Gracias por vuestro apoyo[/COLOR]</title>
 <thumbnail> </thumbnail>
 <fanart> </fanart>
@@ -26,7 +18,10 @@
 
 <item>
 <title>[COLOR gold]agradecer a mi[/COLOR][COLOR lime] pelos blancos su paciencia.[/COLOR]</title>
-<link></link>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<link>http://ignoreme</link>
+<externallink> </externallink>
 </item>
 
 <item>
